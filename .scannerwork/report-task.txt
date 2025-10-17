@@ -1,0 +1,6 @@
+projectKey=my-php-site
+serverUrl=http://localhost:9000
+serverVersion=25.10.0.114319
+dashboardUrl=http://localhost:9000/dashboard?id=my-php-site
+ceTaskId=e824fe78-577c-4f3e-8934-623499bbbe4b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=e824fe78-577c-4f3e-8934-623499bbbe4b
